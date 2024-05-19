@@ -1,0 +1,23 @@
+{
+  "classes" : [ {
+    "className" : "NOT ASSIGNED",
+    "members" : [ {
+      "firstName" : "test",
+      "lastName" : "data",
+      "studentAge" : "1",
+      "studentGender" : "Male",
+      "studentID" : "1001",
+      "studentClass" : "NOT ASSIGNED",
+      "studentImageURL" : "null"
+    } ]
+  }, {
+    "className" : "test class",
+    "members" : [ ]
+  }, {
+    "className" : "CS Clowns",
+    "members" : [ ]
+  }, {
+    "className" : "balls",
+    "members" : [ ]
+  } ]
+}

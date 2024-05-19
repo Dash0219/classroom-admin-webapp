@@ -1,0 +1,11 @@
+{
+  "students" : [ {
+    "firstName" : "test",
+    "lastName" : "data",
+    "studentAge" : "1",
+    "studentGender" : "Male",
+    "studentID" : "1001",
+    "studentClass" : "NOT ASSIGNED",
+    "studentImageURL" : "null"
+  } ]
+}

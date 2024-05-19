@@ -1,0 +1,31 @@
+{
+  "classes" : [ {
+    "className" : "NOT ASSIGNED",
+    "members" : [ ]
+  }, {
+    "className" : "test class",
+    "members" : [ {
+      "firstName" : "test",
+      "lastName" : "data",
+      "studentAge" : "1",
+      "studentGender" : "Male",
+      "studentID" : "1001",
+      "studentClass" : "test class",
+      "studentImageURL" : "null"
+    } ]
+  }, {
+    "className" : "CS Clowns",
+    "members" : [ {
+      "firstName" : "edger",
+      "lastName" : "tsang",
+      "studentAge" : "19",
+      "studentGender" : "Male",
+      "studentID" : "10000",
+      "studentClass" : "CS Clowns",
+      "studentImageURL" : "https://media.licdn.com/dms/image/D4E03AQESIa3ugBDqIA/profile-displayphoto-shrink_800_800/0/1664356175889?e=1684972800&v=beta&t=RMmWfeIKSUILaXLLWk2TMDc68MUSf_-phXEPzBvlcrE"
+    } ]
+  }, {
+    "className" : "balls",
+    "members" : [ ]
+  } ]
+}
